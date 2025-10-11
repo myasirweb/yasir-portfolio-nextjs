@@ -39,7 +39,7 @@ export const heroItem = {
   title: "hero",
   name: "Hi, I'm Muhammad Yasir",
   designation: "Front-End Developer",
-  experience: "2 years",
+  experience: "3 years",
   focus: "Next.js & React.js",
 
   contact: {
@@ -67,7 +67,7 @@ export const aboutItem = {
   title: "About Me",
   btnTitle: "Know More About Me",
   url: "https://www.linkedin.com/in/yasirweb/",
-  description: `👨‍💻 Hi, I'm Muhammad Yasir – a Front-End Developer with 2 years of experience specializing in building responsive and high-performance websites and web applications. I focus on modern technologies like Next.js and React.js to create fast, user-friendly interfaces that elevate the digital experience. Alongside front-end development, I also provide freelance services for custom websites using HTML, CSS, and JavaScript, and offer WordPress development for startups and small businesses. Whether it's a dynamic React project, a sleek Next.js app, or a WordPress site, I deliver SEO-friendly, scalable, and visually clean solutions tailored to your goals.`,
+  description: `👨‍💻 Hi, I'm Muhammad Yasir – a Front-End Developer with 3 years of experience specializing in building responsive and high-performance websites and web applications. I focus on modern technologies like Next.js and React.js to create fast, user-friendly interfaces that elevate the digital experience. Alongside front-end development, I also provide freelance services for custom websites using HTML, CSS, and JavaScript, and offer WordPress development for startups and small businesses. Whether it's a dynamic React project, a sleek Next.js app, or a WordPress site, I deliver SEO-friendly, scalable, and visually clean solutions tailored to your goals.`,
 };
 
 // PROJECTS ITEM
@@ -499,7 +499,7 @@ export const experienceItem = [
     from: new Date(2023, 6, 1).getFullYear(),
     to: "",
     description:
-      "Front-End Developer with 2 years of experience building responsive, high-performance web applications. Skilled in React.js, JavaScript, HTML, and CSS, with expertise in creating reusable components, integrating REST APIs using Redux Toolkit (RTK), and translating UI/UX designs into interactive interfaces. I also work with WordPress, developing and customizing business websites tailored to organizational needs. Focused on delivering clean, modern, and scalable web solutions that enhance user experience and support business growth.",
+      "Front-End Developer with 3 years of experience building responsive, high-performance web applications. Skilled in React.js, JavaScript, HTML, and CSS, with expertise in creating reusable components, integrating REST APIs using Redux Toolkit (RTK), and translating UI/UX designs into interactive interfaces. I also work with WordPress, developing and customizing business websites tailored to organizational needs. Focused on delivering clean, modern, and scalable web solutions that enhance user experience and support business growth.",
     stack: [
       {
         id: 1,
