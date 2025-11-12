@@ -48,7 +48,7 @@ export const heroItem = {
   },
   cv: {
     title: "Download CV",
-    url: "https://drive.google.com/file/d/1ZrRSdyO-50wz6wBiUY7MWl8AZ5BPF7mT/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1sotI_zSq7Tz8IO8nzYvtcHvKHm-vepvJ/view",
   },
   iconOne: {
     title: "GitHub",
